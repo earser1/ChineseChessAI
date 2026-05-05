@@ -26,7 +26,7 @@
 使用方法
 1. 本地调试与开发
 # 1. 克隆本仓库到本地（若为协作成员，先Fork仓库后克隆自己的Fork版本）
-git clone https://github.com/你的GitHub用户名/仓库名.git
+git clone https://github.com/earser1/ChineseChessAI.git
 
 # 2. 进入项目目录
 cd 仓库名
